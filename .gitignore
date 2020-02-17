@@ -1,0 +1,10 @@
+system/system/app/VivoCamera/VivoCamera.apk
+system/system/app/VivoThemeRes/VivoThemeRes.apk
+system/system/app/Chrome/Chrome.apk
+system/system/priv-app/Velvet/Velvet.apk
+system/system/media/gallery/assets_ex/facegroup/license_release_vivo.lic
+vendor/camera3rd/sensetime
+vendor/camera3rd/sensetime/calibration.lic
+vendor/camera3rd/sensetime/dualcapture.lic
+vendor/camera3rd/sensetime/license.lic
+vendor/lib64/libvivo3rd_sensetime.so
