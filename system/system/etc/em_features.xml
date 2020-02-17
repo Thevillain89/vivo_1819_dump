@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <boolean name="gyroscope_support">false</boolean>
+    <boolean name="hifi_support">false</boolean>
+    <boolean name="fm_support">true</boolean>
+    <boolean name="sub_echo_support">false</boolean>
+    <boolean name="double_hifi_support">false</boolean>
+    <boolean name="right_speaker_support">false</boolean>
+    <boolean name="left_speaker_support">false</boolean>
+    <boolean name="smart_spearker_amplifier_cali_support">false</boolean>
+    <boolean name="speaker_resdetect_support">false</boolean>
+    <boolean name="ktv_sound_support">false</boolean>
+    <boolean name="camera_pdaf">true</boolean>
+    <boolean name="virtual_sim">false</boolean>
+    <boolean name="flash_light_cali_support">true</boolean>
+    <boolean name="meid_support">true</boolean>
+    <boolean name="button_light">false</boolean>
+    <boolean name="camera_fill_light">false</boolean>
+    <boolean name="front_flash_light_cali_support">false</boolean>
+    <boolean name="dpdt_test">true</boolean>
+    <boolean name="double_camera">true</boolean>
+    <boolean name="three_camera_back">true</boolean>
+    <boolean name="leds_support">true</boolean>
+    <boolean name="fastcharger_support">true</boolean>
+    <boolean name="lcm_light_sensor">false</boolean>
+    <boolean name="light_sensor_leak">true</boolean>
+    <boolean name="camera_pop_calibration">true</boolean>
+    <boolean name="gyroscope_support">true</boolean>
+    <boolean name="ai_key_support">true</boolean>
+    <boolean name="light_sensor_angle">true</boolean>
+    <boolean name="sub_echo_support">true</boolean>
+    <string name="motor_parameters">hall1_pop[-180, -509]hall2_pop[-1, -50]hall1_push[-1, -50]hall2_push[-180, -509]MotorPopMaxTime[900]MotorPushMaxTime[900]FluencyTime[400,1000]RCTime[2200]</string>
+</resources>
